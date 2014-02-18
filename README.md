@@ -1,9 +1,8 @@
 Ccoin integration/staging tree
 ================================
 
-http://www.coingen.io
-
 Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2013-2014 Bitcoin Developers
 
 What is Ccoin?
 ----------------
